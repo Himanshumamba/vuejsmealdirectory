@@ -62,6 +62,6 @@
   </script>
   
   <style scoped>
-  /* https://www.youtube.com/watch?v=cfiN8lCA3RM*/
+
   </style>
   
